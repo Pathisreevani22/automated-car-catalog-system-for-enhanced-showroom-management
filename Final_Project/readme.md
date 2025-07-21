@@ -1,0 +1,1 @@
+The Automated Car Catalog System is a ServiceNow-based application developed to streamline showroom operations by digitizing and automating car catalog management. It facilitates efficient handling of inventory, automates customer inquiry processes, manages car model data, and tracks customer interest with real-time dashboards and alerts.
